@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Nom</string>
+    <string name="password">Croassaint</string>
+    <string-array name="opcoes">
+        <item>Zidane</item>
+        <item>Paris SG</item>
+        <item>Eifell</item>
+        <item>Peugeout</item>
+    </string-array>
+</resources>

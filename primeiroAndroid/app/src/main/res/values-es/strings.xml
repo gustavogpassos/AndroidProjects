@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Nombre</string>
+    <string name="password">Burrito</string>
+    <string-array name="opcoes">
+        <item>Tequila</item>
+        <item>Guacamole</item>
+        <item>Mojito</item>
+        <item>Nacho</item>
+    </string-array>
+</resources>

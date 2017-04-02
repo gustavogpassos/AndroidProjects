@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Nome</string>
+    <string name="password">Senha</string>
+    <string-array name="opcoes">
+        <item>Gostei</item>
+        <item>Detsetei</item>
+        <item>Odiei</item>
+        <item>Ca...</item>
+    </string-array>
+</resources>

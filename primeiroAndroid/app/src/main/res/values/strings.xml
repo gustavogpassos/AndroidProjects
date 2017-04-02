@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PrimeiroAndroid</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string-array name="opcoes">
+        <item>Like</item>
+        <item>Dislike</item>
+        <item>Hate</item>
+        <item>Shit</item>
+    </string-array>
+</resources>
